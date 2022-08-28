@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gramanoudjame
 - 👀 I’m interested in so many things
-- 🌱 I’m currently learning Golang, Github, CI/CD, GCP
-- 💞️ I’m looking to collaborate on any subjects, as far as I keep learning and improving my devops skills
+- 🌱 I’m currently learning Golang, Git, CI/CD, GCP, C, C++
+- 💞️ I’m looking to collaborate on any subjects, as far as I keep learning
 - 📫 How to reach me gramanoudjame@gmail.com
 
 <!---
